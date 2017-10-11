@@ -1,4 +1,6 @@
 # react-style-guid
+### https://github.com/airbnb/javascript/blob/master/react/README.md
+### https://github.com/piotrwitek/react-redux-typescript-guide#tslintjson
 
 # Содержание
 
